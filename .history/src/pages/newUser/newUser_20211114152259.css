@@ -1,0 +1,12 @@
+.newUser {
+    flex: 4;
+    padding: 60px;
+    background: url("https://th.bing.com/th/id/R.04b335a75e4e771d18cd1dbd8ab0a170?rik=O6S8OUHzIwKOrA&riu=http%3a%2f%2fchefjob.vn%2fwp-content%2fuploads%2f2020%2f07%2fky-nang-cham-soc-khach-hang.jpg&ehk=wEUL1i3r3cKnp05v6DmvWkKV0kJx9LCPsw52vSFjt30%3d&risl=&pid=ImgRaw&r=0") top center/cover no-repeat;
+}
+
+.newUserContainer {
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: .6rem;
+    box-shadow: inset 0px 2px 5px rgba(255, 255, 255, 0.8), 2px 0px 5px rgba(0, 0, 0, 0.2), 0px 2px 5px rgba(0, 0, 0, 0.2), inset 2px 5px 3px rgba(255, 255, 255, 0.8)  ;
+}

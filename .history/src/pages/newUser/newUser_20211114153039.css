@@ -1,0 +1,18 @@
+.newUser {
+    flex: 4;
+    padding: 60px;
+    background: url("https://crmviet.vn/wp-content/uploads/2019/01/khach-hang-ben-trong-doanh-nghiep.jpg") top center/cover no-repeat;
+}
+
+.newUserContainer {
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: .6rem;
+    box-shadow: inset 0px 2px 5px rgba(255, 255, 255, 0.8), 2px 0px 5px rgba(0, 0, 0, 0.2), 0px 2px 5px rgba(0, 0, 0, 0.2), inset 2px 5px 3px rgba(255, 255, 255, 0.8);
+    background-color: rgb(255, 255, 255);
+}
+
+.newUserForm {
+    display: flex;
+  flex-wrap: wrap;
+}

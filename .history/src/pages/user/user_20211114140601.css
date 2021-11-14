@@ -1,0 +1,29 @@
+.user {
+    flex: 4;
+}
+
+
+.userContainer {
+    display: flex;
+}
+.userShow {
+    flex: 1;
+    margin: 20px 40px;
+    padding: 30px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+.userShowTop {
+}
+
+.userShowBottom {
+}
+
+.userUpdate {
+    flex: 2;
+    margin: 20px 40px;
+    padding: 30px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}

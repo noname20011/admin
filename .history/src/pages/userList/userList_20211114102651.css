@@ -1,0 +1,12 @@
+.userList {
+    flex: 4;
+    width: 100%;
+    margin: 20px 40px;
+    padding: 20px;
+}
+
+.userListUser {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

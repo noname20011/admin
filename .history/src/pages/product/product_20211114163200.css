@@ -1,0 +1,31 @@
+.product {
+    flex: 4;
+    margin: 20px 40px;
+    padding: 30px;
+}
+
+.productTitleContainer {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.productAddBtn {
+    width: 80px;
+    border-radius: .5rem;
+    background-color: teal;
+    padding: 10px 8px;
+
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.productAddBtn:hover {
+    opacity: 1;
+}
+
+.productTop {
+    display: flex;
+}

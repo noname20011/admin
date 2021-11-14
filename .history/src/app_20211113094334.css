@@ -1,0 +1,15 @@
+ul, li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+}
+
+.other {
+    flex: 4;
+}

@@ -1,0 +1,15 @@
+.widgetSm {
+    flex: 1;
+    margin: 20px 40px;
+    padding: 20px;
+    border-radius: .4rem;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+.widgetSmImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
